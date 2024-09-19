@@ -1,0 +1,33 @@
+{
+  "listName": "WorkManager",
+  "items": [
+    {
+      "title": "[Android] WorkManager - 개요",
+      "url": "https://kenel.tistory.com/148"
+    },
+    {
+      "title": "[Android] WorkManager - 기초",
+      "url": "https://kenel.tistory.com/149"
+    },
+    {
+      "title": "[Android] WorkManager - enqueueUniqueWork()",
+      "url": "https://kenel.tistory.com/150"
+    },
+    {
+      "title": "[Android] WorkManager - 인자 전달 및 데이터 반환",
+      "url": "https://kenel.tistory.com/151"
+    },
+    {
+      "title": "[Android] WorkManager - 제약 조건 (Constraints)",
+      "url": "https://kenel.tistory.com/152"
+    },
+    {
+      "title": "[Android] WorkManager - 작업 연쇄하기(Chaining)",
+      "url": "https://kenel.tistory.com/153"
+    },
+    {
+      "title": "[Android] WorkManager - 병렬 Chaining",
+      "url": "https://kenel.tistory.com/154"
+    }
+  ]
+}
