@@ -1,0 +1,21 @@
+{
+  "listName": "LiveData",
+  "items": [
+    {
+      "title": "[Android] LiveData - 기초",
+      "url": "https://kenel.tistory.com/84"
+    },
+    {
+      "title": "[Android] LiveData - 암시적으로 '관찰'하기",
+      "url": "https://kenel.tistory.com/87"
+    },
+    {
+      "title": "[Android] LiveData - 양방향 데이터 바인딩의 3가지 방법",
+      "url": "https://kenel.tistory.com/88"
+    },
+    {
+      "title": "[Android] LiveData - Flow로 마이그레이션",
+      "url": "https://kenel.tistory.com/190"
+    }
+  ]
+}

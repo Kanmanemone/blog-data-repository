@@ -1,0 +1,37 @@
+{
+  "listName": "Dagger2",
+  "items": [
+    {
+      "title": "의존성 주입 (Dependency Injection)",
+      "url": "https://kenel.tistory.com/155"
+    },
+    {
+      "title": "[Android] Dagger2 - 기초",
+      "url": "https://kenel.tistory.com/157"
+    },
+    {
+      "title": "[Android] Dagger2 - @Provides",
+      "url": "https://kenel.tistory.com/158"
+    },
+    {
+      "title": "[Android] Dagger2 - 매개변수 동적 할당",
+      "url": "https://kenel.tistory.com/159"
+    },
+    {
+      "title": "[Android] Dagger2 - 인터페이스 구현체 주입 (@Binds)",
+      "url": "https://kenel.tistory.com/160"
+    },
+    {
+      "title": "[Android] Dagger2 - Activity에 Dependency 주입",
+      "url": "https://kenel.tistory.com/161"
+    },
+    {
+      "title": "[Android] Dagger2 - Application 활용하기",
+      "url": "https://kenel.tistory.com/162"
+    },
+    {
+      "title": "[Android] Dagger2 - Hilt로 마이그레이션",
+      "url": "https://kenel.tistory.com/174"
+    }
+  ]
+}

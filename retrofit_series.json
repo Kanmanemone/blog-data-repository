@@ -1,0 +1,25 @@
+{
+  "listName": "Retrofit",
+  "items": [
+    {
+      "title": "[Android] Retrofit - 배경과 구조",
+      "url": "https://kenel.tistory.com/138"
+    },
+    {
+      "title": "[Android] Retrofit - 기초",
+      "url": "https://kenel.tistory.com/139"
+    },
+    {
+      "title": "[Android] Retrofit - MVVM 구조",
+      "url": "https://kenel.tistory.com/140"
+    },
+    {
+      "title": "[Android] Retrofit - Logging, Timeout 관리 (Interceptor)",
+      "url": "https://kenel.tistory.com/143"
+    },
+    {
+      "title": "[Android] Retrofit - Post",
+      "url": "https://kenel.tistory.com/144"
+    }
+  ]
+}

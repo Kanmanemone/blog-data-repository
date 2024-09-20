@@ -1,0 +1,17 @@
+{
+  "listName": "Data Binding",
+  "items": [
+    {
+      "title": "[Android] Data Binding - 기초",
+      "url": "https://kenel.tistory.com/80"
+    },
+    {
+      "title": "[Android] Data Binding - View에 객체 전달",
+      "url": "https://kenel.tistory.com/81"
+    },
+    {
+      "title": "[Android] Data Binding - View Binding",
+      "url": "https://kenel.tistory.com/173"
+    }
+  ]
+}

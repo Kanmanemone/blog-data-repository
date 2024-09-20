@@ -1,0 +1,29 @@
+{
+  "listName": "Room",
+  "items": [
+    {
+      "title": "[Android] Room - 기초, INSERT와 DELETE 연습",
+      "url": "https://kenel.tistory.com/120"
+    },
+    {
+      "title": "[Android] Room - Entity, DAO, Database",
+      "url": "https://kenel.tistory.com/121"
+    },
+    {
+      "title": "[Android] Room - UPDATE 연습",
+      "url": "https://kenel.tistory.com/122"
+    },
+    {
+      "title": "[Android] Room - 반환 값이 있는 INSERT",
+      "url": "https://kenel.tistory.com/125"
+    },
+    {
+      "title": "[Android] Room - AutoMigration 기초",
+      "url": "https://kenel.tistory.com/135"
+    },
+    {
+      "title": "[Android] Room - AutoMigrationSpec",
+      "url": "https://kenel.tistory.com/136"
+    }
+  ]
+}

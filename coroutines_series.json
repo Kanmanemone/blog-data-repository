@@ -1,0 +1,65 @@
+{
+  "listName": "Coroutines",
+  "items": [
+    {
+      "title": "[Kotlin] Coroutines - 기초",
+      "url": "https://kenel.tistory.com/104"
+    },
+    {
+      "title": "[Kotlin] Coroutines - 동기 코드, 비동기 코드",
+      "url": "https://kenel.tistory.com/105"
+    },
+    {
+      "title": "[Kotlin] Coroutines - Suspend vs Block",
+      "url": "https://kenel.tistory.com/106"
+    },
+    {
+      "title": "[Kotlin] Coroutines - CoroutineScope, CoroutineContext",
+      "url": "https://kenel.tistory.com/107"
+    },
+    {
+      "title": "[Kotlin] Coroutines - Coroutine builder",
+      "url": "https://kenel.tistory.com/108"
+    },
+    {
+      "title": "[Kotlin] Coroutines - runBlocking",
+      "url": "https://kenel.tistory.com/109"
+    },
+    {
+      "title": "[Kotlin] Coroutines - suspend 키워드",
+      "url": "https://kenel.tistory.com/110"
+    },
+    {
+      "title": "[Kotlin] Couroutine - 스레드(Thread)와 스레드 풀(Thread Pool)",
+      "url": "https://kenel.tistory.com/111"
+    },
+    {
+      "title": "[Kotlin] Coroutines - Structured Concurrency",
+      "url": "https://kenel.tistory.com/112"
+    },
+    {
+      "title": "[Kotlin] Coroutines - Parallel Decomposition",
+      "url": "https://kenel.tistory.com/113"
+    },
+    {
+      "title": "[Kotlin] Coroutines - 스레드 전환",
+      "url": "https://kenel.tistory.com/114"
+    },
+    {
+      "title": "[Kotlin] Coroutines - ViewModelScope",
+      "url": "https://kenel.tistory.com/115"
+    },
+    {
+      "title": "[Kotlin] Coroutines - LifecycleScope",
+      "url": "https://kenel.tistory.com/116"
+    },
+    {
+      "title": "[Kotlin] Coroutines - LiveData Builder",
+      "url": "https://kenel.tistory.com/118"
+    },
+    {
+      "title": "[Kotlin] Coroutines - 한 Scope 내에서의 계층 관계",
+      "url": "https://kenel.tistory.com/193"
+    }
+  ]
+}

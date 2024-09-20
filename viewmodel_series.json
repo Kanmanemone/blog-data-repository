@@ -1,0 +1,21 @@
+{
+  "listName": "ViewModel",
+  "items": [
+    {
+      "title": "[Android] ViewModel - 기초",
+      "url": "https://kenel.tistory.com/82"
+    },
+    {
+      "title": "[Android] ViewModel - 뷰 모델에 인자(Argument) 전달 (ViewModelFactory)",
+      "url": "https://kenel.tistory.com/83"
+    },
+    {
+      "title": "[Android] ViewModel - View에 객체(ViewModel) 전달",
+      "url": "https://kenel.tistory.com/86"
+    },
+    {
+      "title": "[Android] ViewModel - View에 Event 발생시키기",
+      "url": "https://kenel.tistory.com/123"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "listName": "RecyclerView",
+  "items": [
+    {
+      "title": "[Android] RecyclerView - 기초",
+      "url": "https://kenel.tistory.com/100"
+    },
+    {
+      "title": "[Android] RecyclerView - Adapter에 인자(Argument) 전달",
+      "url": "https://kenel.tistory.com/101"
+    },
+    {
+      "title": "[Android] RecyclerView - notifyDataSetChanged()",
+      "url": "https://kenel.tistory.com/124"
+    }
+  ]
+}

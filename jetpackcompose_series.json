@@ -1,0 +1,69 @@
+{
+  "listName": "Jetpack Compose",
+  "items": [
+    {
+      "title": "[Android] Jetpack Compose - 기초",
+      "url": "https://kenel.tistory.com/175"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Surface",
+      "url": "https://kenel.tistory.com/176"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Modifier",
+      "url": "https://kenel.tistory.com/177"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Layout, Arrangement, Alignment",
+      "url": "https://kenel.tistory.com/178"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Button",
+      "url": "https://kenel.tistory.com/179"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Lazy Column",
+      "url": "https://kenel.tistory.com/181"
+    },
+    {
+      "title": "[Android] Jetpack Compose - State 기초",
+      "url": "https://kenel.tistory.com/184"
+    },
+    {
+      "title": "[Android] Jetpack Compose - State Remembering",
+      "url": "https://kenel.tistory.com/185"
+    },
+    {
+      "title": "[Android] Jetpack Compose - State Hoisting",
+      "url": "https://kenel.tistory.com/186"
+    },
+    {
+      "title": "[Android] Jetpack Compose - ViewModel에서 State 사용하기",
+      "url": "https://kenel.tistory.com/187"
+    },
+    {
+      "title": "[Android] Jetpack Compose - StateFlow와 SharedFlow",
+      "url": "https://kenel.tistory.com/201"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Scaffold",
+      "url": "https://kenel.tistory.com/180"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Side-effects",
+      "url": "https://kenel.tistory.com/189"
+    },
+    {
+      "title": "[Android] Jetpack Compose - 객체 지향적 UI 레이어 설계",
+      "url": "https://kenel.tistory.com/192"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Navigation 기초",
+      "url": "https://kenel.tistory.com/202"
+    },
+    {
+      "title": "[Android] Jetpack Compose - Navigation의 Destination 간 데이터 전달 (NavBackStackEntry.arguments)",
+      "url": "https://kenel.tistory.com/203"
+    }
+  ]
+}

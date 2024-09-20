@@ -1,0 +1,29 @@
+{
+  "listName": "Unit Testing",
+  "items": [
+    {
+      "title": "Unit Testing - Test double",
+      "url": "https://kenel.tistory.com/164"
+    },
+    {
+      "title": "[Android] Unit Testing - 개요와 환경 설정",
+      "url": "https://kenel.tistory.com/165"
+    },
+    {
+      "title": "[Android] Unit Testing - 기초",
+      "url": "https://kenel.tistory.com/168"
+    },
+    {
+      "title": "[Android] Unit Testing - ViewModel",
+      "url": "https://kenel.tistory.com/169"
+    },
+    {
+      "title": "[Android] Unit Testing - Room과 LiveData",
+      "url": "https://kenel.tistory.com/170"
+    },
+    {
+      "title": "[Android] Unit Testing - Retrofit",
+      "url": "https://kenel.tistory.com/171"
+    }
+  ]
+}
