@@ -2,10 +2,6 @@
   "listName": "Dagger2",
   "items": [
     {
-      "title": "의존성 주입 (Dependency Injection)",
-      "url": "https://kenel.tistory.com/155"
-    },
-    {
       "title": "[Android] Dagger2 - 기초",
       "url": "https://kenel.tistory.com/157"
     },
