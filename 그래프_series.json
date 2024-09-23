@@ -1,0 +1,17 @@
+{
+  "listName": "그래프(Graph)",
+  "items": [
+    {
+      "title": "그래프 - 그래프의 종류와 표현",
+      "url": "https://kenel.tistory.com/78"
+    },
+    {
+      "title": "그래프 - 너비 우선 탐색 (BFS, Breadth-First Search)",
+      "url": "https://kenel.tistory.com/211"
+    },
+    {
+      "title": "그래프 - 깊이 우선 탐색 (DFS, Depth-First Search)",
+      "url": "https://kenel.tistory.com/212"
+    }
+  ]
+}
