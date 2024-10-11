@@ -16,11 +16,18 @@
     {
       "title": "Nutri Capture 프론트엔드 - NutrientScreen 구조 잡기",
       "url": "https://kenel.tistory.com/228"
-    }
-    ,
+    },
     {
       "title": "Nutri Capture 프론트엔드 - NutrientScreen의 무한 스크롤",
       "url": "https://kenel.tistory.com/230"
+    },
+    {
+      "title": "Nutri Capture 프론트엔드 - 무한 스크롤 로직 분리",
+      "url": "https://kenel.tistory.com/231"
+    },
+    {
+      "title": "Nutri Capture 프론트엔드 - 역방향 무한 스크롤",
+      "url": "https://kenel.tistory.com/232"
     }
   ]
 }
