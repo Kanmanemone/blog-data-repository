@@ -8,6 +8,10 @@
     {
       "title": "Nutri Capture 백엔드 - 새 ERD와 Room의 @Entity 정의",
       "url": "https://kenel.tistory.com/236"
+    },
+    {
+      "title": "Nutri Capture 백엔드 - Room의 @DAO, @Database 구현",
+      "url": "https://kenel.tistory.com/237"
     }
   ]
 }
