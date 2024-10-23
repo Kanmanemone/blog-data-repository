@@ -16,6 +16,10 @@
     {
       "title": "Nutri Capture 백엔드 - Model을 ViewModel에 생성자 주입",
       "url": "https://kenel.tistory.com/239"
+    },
+    {
+      "title": "Nutri Capture 백엔드 - View에서 INSERT 트리거",
+      "url": "https://kenel.tistory.com/240"
     }
   ]
 }
