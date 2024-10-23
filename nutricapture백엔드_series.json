@@ -12,6 +12,10 @@
     {
       "title": "Nutri Capture 백엔드 - Room의 @DAO, @Database 구현",
       "url": "https://kenel.tistory.com/237"
+    },
+    {
+      "title": "Nutri Capture 백엔드 - Model을 ViewModel에 생성자 주입",
+      "url": "https://kenel.tistory.com/239"
     }
   ]
 }
