@@ -1,0 +1,17 @@
+{
+  "listName": "Notifications",
+  "items": [
+    {
+      "title": "[Android] Notifications - 기초",
+      "url": "https://kenel.tistory.com/145"
+    },
+    {
+      "title": "[Android] Notifications - PendingIntent",
+      "url": "https://kenel.tistory.com/146"
+    },
+    {
+      "title": "[Android] Notifications - Action 버튼 클릭 시 알림 Cancel",
+      "url": "https://kenel.tistory.com/147"
+    }
+  ]
+}
