@@ -28,6 +28,10 @@
     {
       "title": "Nutri Capture 백엔드 - Room 가상 테이블의 레코드를 필요한 만큼만 가져오기",
       "url": "https://kenel.tistory.com/256"
+    },
+    {
+      "title": "Nutri Capture 백엔드 - Room 무결성 보완",
+      "url": "https://kenel.tistory.com/259"
     }
   ]
 }
