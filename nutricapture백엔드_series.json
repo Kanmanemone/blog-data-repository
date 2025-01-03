@@ -48,6 +48,10 @@
     {
       "title": "Nutri Capture 백엔드 - ChatBar에 ViewModel 연결",
       "url": "https://kenel.tistory.com/278"
+    },
+    {
+      "title": "Nutri Capture 백엔드 - StateFlow로 전환",
+      "url": "https://kenel.tistory.com/280"
     }
   ]
 }
